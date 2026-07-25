@@ -1,0 +1,24 @@
+{
+  "title": "{emoji} Nouveau pronostic !",
+  "fields": [
+    {
+      "name": "» Équipes 👀",
+      "value": "- **{team1}**\n- **{team2}**"
+    },
+    {
+      "name": "» Récompense(s) 🎁",
+      "value": "- **Grade**: <@&{rank}>\n- **Durée**: {time}"
+    },
+    {
+      "name": "» Début du match 🏴",
+      "value": "Le début du match aura lieu le <t:{ts}:f>. Cela **souligne** que ce **pronostic** s'arrête <t:{ts}:R>."
+    }
+  ],
+  "color": "{color}",
+  "thumbnail": {
+    "url": "{link}"
+  },
+  "footer": {
+    "text": "» ⚽ Clique ci-dessous pour donner ton pronostic"
+  }
+}

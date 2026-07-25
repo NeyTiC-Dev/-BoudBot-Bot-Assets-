@@ -1,0 +1,8 @@
+{
+  "title": "{emoji} Pronostic envoyé.",
+  "description": "Votre pronostic a été enregistré avec succès.",
+  "color": "{color}",
+  "footer": {
+    "text": "» Rendez-vous à la fin du match !"
+  }
+}

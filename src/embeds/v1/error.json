@@ -1,0 +1,9 @@
+{
+  "title": "{emoji} Une erreur est survenue.",
+  "description": "{error}",
+  "color": "{color}",
+  "footer": {
+    "text": "» Erreur"
+  },
+  "timestamp": "{date}"
+}

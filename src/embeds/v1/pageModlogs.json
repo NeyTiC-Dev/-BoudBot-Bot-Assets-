@@ -1,0 +1,13 @@
+{
+  "title": "{emoji} Modlogs de {user}",
+  "fields": [
+    {
+      "name": "» Sanction n°{number}",
+      "value": "```ansi\n» \u001b[1;31mType\u001b[0m\u001b[33m:\u001b[0m \u001b[32m{type}\u001b[0m\n» \u001b[1;31mPar\u001b[0m\u001b[33m:\u001b[0m \u001b[32m{author}\u001b[0m\n» \u001b[1;31mTemps\u001b[0m\u001b[33m:\u001b[0m \u001b[32m{time}\u001b[0m\n» \u001b[1;31mRaison\u001b[0m\u001b[33m:\u001b[0m \u001b[32m{reason}\u001b[0m\n» \u001b[1;31mFin\u001b[0m\u001b[33m:\u001b[0m \u001b[32m{finish}\u001b[0m```"
+    }
+  ],
+  "color": "{color}",
+  "footer": {
+    "text": "» UserID: {userID} | Page {page}/{totalPage}"
+  }
+}

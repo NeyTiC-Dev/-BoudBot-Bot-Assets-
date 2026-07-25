@@ -1,0 +1,9 @@
+{
+  "title": "{emoji} Une erreur est survenue !",
+  "description": "Une erreur est survenue lors de la tentative d'envoie du message. Il est possible que la personne ait désactivé ses messages privés ou alors qu'il est bloqué le bot ou alors la personne n'est pas présente sur le serveur.",
+  "color": "{color}",
+  "footer": {
+    "text": "» Demandé par {user}"
+  },
+  "timestamp": "{date}"
+}

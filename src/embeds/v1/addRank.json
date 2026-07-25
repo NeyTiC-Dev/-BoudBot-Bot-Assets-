@@ -1,0 +1,13 @@
+{
+  "title": "{emoji} Rôle ajouté",
+  "fields": [
+    {
+      "name": "» Infomation(s)",
+      "value": "- Vous avez reçu le rôle `{roleName}`. Vous posséderez ce rôle jusque le <t:{ts}:f> (<t:{ts}:R>).\n- **Raison**: {reason}"
+    }
+  ],
+  "color": "{color}",
+  "footer": {
+    "text": "» Rôle Temporaire"
+  }
+}

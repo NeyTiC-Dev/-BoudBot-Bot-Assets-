@@ -1,0 +1,16 @@
+{
+  "title": "{emoji} {user} a envoyé un pronostic.",
+  "fields": [
+    {
+      "name": "» Infomation(s)",
+      "value": "- **{team1}**: {score1}\n- **{team2}**: {score2}"
+    }
+  ],
+  "color": "{color}",
+  "thumbnail": {
+    "url": "{link}"
+  },
+  "footer": {
+    "text": "» userID: {id}"
+  }
+}

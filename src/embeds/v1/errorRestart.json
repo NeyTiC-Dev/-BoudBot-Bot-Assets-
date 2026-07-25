@@ -1,0 +1,9 @@
+{
+  "title": "{emoji} Une erreur est survenue.",
+  "description": "Une erreur est survenue lors du redémarrage du bot. Veuillez consulter la `console` du bot.",
+  "color": "{color}",
+  "footer": {
+    "text": "» Erreur"
+  },
+  "timestamp": "{date}"
+}

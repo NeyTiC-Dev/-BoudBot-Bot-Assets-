@@ -1,0 +1,9 @@
+{
+  "title": "{emoji} Bot opérationnel !",
+  "description": "Le redémarrage du bot a été effectué avec succès.",
+  "color": "{color}",
+  "footer": {
+    "text": "» Restart"
+  },
+  "timestamp": "{date}"
+}

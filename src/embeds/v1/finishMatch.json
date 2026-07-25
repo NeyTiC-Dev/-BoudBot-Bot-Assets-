@@ -1,0 +1,13 @@
+{
+  "title": "{emoji} En attente du résultat...",
+  "fields": [
+    {
+      "name": "» Qui a gagné ?",
+      "value": "Veuillez cliquer sur le bouton ci-dessous afin de donner le score final du match **{team1}** - **{team2}**."
+    }
+  ],
+  "color": "{color}",
+  "footer": {
+    "text": "» {messageID}"
+  }
+}

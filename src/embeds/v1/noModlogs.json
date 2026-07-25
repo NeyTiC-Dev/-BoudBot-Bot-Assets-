@@ -1,0 +1,9 @@
+{
+  "title": "{emoji} Modlogs de {user}",
+  "description": "Aucune sanction n'a été trouvée pour `{user}`.",
+  "color": "{color}",
+  "footer": {
+    "text": "» Modlogs"
+  },
+  "timestamp": "{date}"
+}

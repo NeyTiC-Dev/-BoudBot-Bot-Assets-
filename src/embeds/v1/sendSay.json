@@ -1,0 +1,9 @@
+{
+  "title": "{emoji} Message envoyé.",
+  "description": "Le message a bien été envoyé avec succès. (mode webhook: {state})",
+  "color": "{color}",
+  "footer": {
+    "text": "» Demandé par {user}"
+  },
+  "timestamp": "{date}"
+}

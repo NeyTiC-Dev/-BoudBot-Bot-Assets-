@@ -1,0 +1,17 @@
+{
+  "title": "{emoji} Le match est en cours...",
+  "fields": [
+    {
+      "name": "» Équipes ⚽",
+      "value": "- **{team1}**\n- **{team2}**"
+    },
+    {
+      "name": "» Informations 🌍",
+      "value": "Le match est en cours... Les **résultats** seront **publiés** au **minimum** le <t:{ts}:f> (<t:{ts}:R>)"
+    }
+  ],
+  "color": "{color}",
+  "footer": {
+    "text": "» ⚽ Alors, qui va gagner ?"
+  }
+}
