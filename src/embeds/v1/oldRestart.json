@@ -1,6 +1,6 @@
 {
   "title": "{emoji} Redémarrage en cours...",
-  "description": "Le bot est en cours de redémarrage... Veuillez patienter...",
+  "description": "Le bot est en cours de redémarrage. Veuillez patienter...",
   "color": "{color}",
   "footer": {
     "text": "» Demandé par {user}"
